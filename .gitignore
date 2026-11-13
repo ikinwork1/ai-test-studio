@@ -1,0 +1,13 @@
+gitignore
+node_modules/
+dist/
+.env
+config/apps/*.json
+!config/apps/*.json.example
+.auth/
+midscene_run/
+*.log
+
+playwright-browsers/
+.venv/
+.idea/

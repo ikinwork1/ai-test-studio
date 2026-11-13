@@ -1,0 +1,5 @@
+cases:
+  - name: "Проверка загрузки"
+    steps:
+      - gotoUrl: "https://disp-dev.loc/login"
+      - aiAssert: 'На странице отображается форма входа с текстом Авторизация'

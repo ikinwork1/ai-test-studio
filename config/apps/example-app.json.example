@@ -1,0 +1,10 @@
+{
+  "id": "example-app",
+  "name": "Пример приложения",
+  "baseUrl": "http://10.0.1.15:8080",
+  "login": {
+    "path": "/login",
+    "username": "testuser",
+    "password": "CHANGE_ME"
+  }
+}
